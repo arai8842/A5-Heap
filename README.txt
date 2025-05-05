@@ -17,7 +17,8 @@ g++ mainH.cpp heap.cpp -o heap_program
 
 
 
-GitHub:https://github.com/arai8842/A5-Heaps
+GitHub:https://github.com/arai8842/A5-Heap
+
 
 
 
